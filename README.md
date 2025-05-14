@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-chatmcp-mcp-server-router-badge.png)](https://mseep.ai/app/mcp-mirror-chatmcp-mcp-server-router)
+
 # mcprouter MCP Server
 
 proxy for remote mcp servers.
